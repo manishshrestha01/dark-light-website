@@ -156,8 +156,8 @@ svg {
   color: var(--first-color);
 }
 
-
 /*=============== Variables Light theme ===============*/
+
 body.dark-theme{
   --hue: 162;
   --first-color: hsl(var(--hue), 100%, 40%);
