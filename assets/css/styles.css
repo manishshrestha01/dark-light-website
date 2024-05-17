@@ -12,7 +12,7 @@ a {
 
 /* Custom cursor for specific elements */
 .custom-element {
-  cursor: url('../img/text.svg'), default;
+  cursor: url('../img/pointer.svg'), default;
 }
 
 /* Custom cursor for header */
@@ -24,6 +24,13 @@ a {
 button, .button {
   cursor: url('../img/pointer.svg'), pointer;
 }
+
+/* Custom cursor for the contact form */
+.contact-form input,
+.contact-form textarea{
+    cursor: url('../img/text.svg'), text;
+}
+
 /*=============== VARIABLES CSS ===============*/
 :root {
   --header-height: 3.5rem;
@@ -148,6 +155,7 @@ svg {
 .change-theme:hover{
   color: var(--first-color);
 }
+
 
 /*=============== Variables Light theme ===============*/
 body.dark-theme{
@@ -596,7 +604,7 @@ margin-top: 2rem;
   margin-bottom: 2rem;
 }
 
-.contact__button{
+.button__contact__button{
   justify-self: center;
   cursor: pointer;
 }
