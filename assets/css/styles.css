@@ -1,6 +1,29 @@
 /*=============== GOOGLE FONTS ===============*/
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap");
+/* Custom cursor for the entire website */
+body {
+  cursor: url('../img/cursor.svg'), auto;
+}
 
+/* Custom cursor for links */
+a {
+  cursor: url('../img/pointer.svg'), pointer;
+}
+
+/* Custom cursor for specific elements */
+.custom-element {
+  cursor: url('../img/text.svg'), default;
+}
+
+/* Custom cursor for header */
+.header {
+  cursor: url('../img/cursor.svg'), auto;
+}
+
+/* Custom cursor for buttons */
+button, .button {
+  cursor: url('../img/pointer.svg'), pointer;
+}
 /*=============== VARIABLES CSS ===============*/
 :root {
   --header-height: 3.5rem;
