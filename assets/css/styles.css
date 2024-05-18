@@ -148,7 +148,7 @@ svg {
   right: 5rem;
   font-size: 1.25rem;
   color: var(--title-color);
-  cursor: pointer;
+  cursor: url('../img/pointer.svg'), pointer;
   transition: .3s;
 }
 
