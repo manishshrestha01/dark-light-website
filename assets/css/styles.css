@@ -161,7 +161,7 @@ svg {
 body.dark-theme{
   --hue: 111;
   --first-color: hsl(var(--hue), 100%, 40%);
-  --first-color-alt: hsl(var(--hue), 56%, 35%);
+  --first-color-alt: hsl(var(--hue), 100%, 40%);
   --title-color: hsl(var(--hue), 12%, 15%);
    --text-color: hsl(0deg 0% 0%);
   --body-color: hsl(228 8% 95% / 1);
