@@ -165,8 +165,8 @@ svg {
 /*=============== Variables Light theme ===============*/
 body.dark-theme{
   --hue: 162;
-  --first-color: hsl(20.77deg 100% 50%);
-  --first-color-alt: hsl(20.77deg 100% 50%);
+  --first-color: hsl(351.27deg 100% 57.27%);
+  --first-color-alt: hsl(351.27deg 100% 57.27%);
   --title-color: hsl(var(--hue), 12%, 15%);
   --text-color: hsl(0deg 0% 0%);
   --body-color: hsl(228 8% 95% / 1);
@@ -183,7 +183,7 @@ body.dark-theme{
 }
 
 .dark-theme .projects__model{
-  background: linear-gradient(180deg,hsla(0, 0%, 0%, 0) 0%,  hsl(20.77deg 100% 50%));
+  background: linear-gradient(180deg, hsla(0, 0%, 0%, 0) 0%, hsl(0deg 100% 51.26%));
 }
 
 .dark-theme .contact__input{
