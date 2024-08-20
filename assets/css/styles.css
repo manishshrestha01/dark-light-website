@@ -158,7 +158,7 @@ svg {
 
 /*=============== Variables Light theme ===============*/
 
-ody.dark-theme {
+body.dark-theme {
     --hue: 111;
     --first-color: hsl(20.77deg 100% 50%);
     --first-color-alt: hsl(20.77deg 100% 50%);
