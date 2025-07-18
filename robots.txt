@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://keydash.shresthamanish.info.np/sitemap.xml
+Sitemap: https://www.shresthamanish.info.np/sitemap.xml
+
