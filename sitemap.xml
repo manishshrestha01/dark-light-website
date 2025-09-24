@@ -8,31 +8,36 @@
 <url>
   <loc>https://www.shresthamanish.info.np/</loc>
   <lastmod>2025-09-15T16:21:59+00:00</lastmod>
+      <priority>1.00</priority>
 </url>
 
 <!-- About -->
 <url>
   <loc>https://www.shresthamanish.info.np/#about</loc>
   <lastmod>2025-09-15T16:21:59+00:00</lastmod>
-</url>
+      <priority>0.80</priority></url>
 
 <!-- Academics -->
 <url>
   <loc>https://www.shresthamanish.info.np/#academics</loc>
   <lastmod>2025-09-15T16:21:59+00:00</lastmod>
+      <priority>0.80</priority>
 </url>
 
 <!-- Projects -->
 <url>
   <loc>https://www.shresthamanish.info.np/#projects</loc>
   <lastmod>2025-09-15T16:21:59+00:00</lastmod>
+      <priority>0.80</priority>
 </url>
 
 <!-- Contact -->
 <url>
   <loc>https://www.shresthamanish.info.np/#contact</loc>
   <lastmod>2025-09-15T16:21:59+00:00</lastmod>
+      <priority>0.80</priority>
 </url>
+
 
 
 
