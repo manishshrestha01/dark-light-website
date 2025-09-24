@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- Home -->
+<url>
+  <loc>https://www.shresthamanish.info.np/</loc>
+  <lastmod>2025-09-15T16:21:59+00:00</lastmod>
+</url>
+
+<!-- About -->
+<url>
+  <loc>https://www.shresthamanish.info.np/#about</loc>
+  <lastmod>2025-09-15T16:21:59+00:00</lastmod>
+</url>
+
+<!-- Academics -->
+<url>
+  <loc>https://www.shresthamanish.info.np/#academics</loc>
+  <lastmod>2025-09-15T16:21:59+00:00</lastmod>
+</url>
+
+<!-- Projects -->
+<url>
+  <loc>https://www.shresthamanish.info.np/#projects</loc>
+  <lastmod>2025-09-15T16:21:59+00:00</lastmod>
+</url>
+
+<!-- Contact -->
+<url>
+  <loc>https://www.shresthamanish.info.np/#contact</loc>
+  <lastmod>2025-09-15T16:21:59+00:00</lastmod>
+</url>
+
+
+
+</urlset>
