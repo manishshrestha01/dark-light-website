@@ -39,16 +39,12 @@
     <lastmod>2025-09-25</lastmod>
     <priority>0.80</priority>
   </url>
+
+  <!-- KeyDash Public Pages Only -->
   <url>
     <loc>https://keydash.shresthamanish.info.np/</loc>
     <lastmod>2025-09-25</lastmod>
-    <priority>1</priority>
-  </url>
-  
-  <url>
-    <loc>https://keydash.shresthamanish.info.np/login/</loc>
-    <lastmod>2025-09-25</lastmod>
-    <priority>0.80</priority>
+    <priority>1.00</priority>
   </url>
   <url>
     <loc>https://keydash.shresthamanish.info.np/leaderboard/</loc>
@@ -57,4 +53,3 @@
   </url>
 
 </urlset>
-
