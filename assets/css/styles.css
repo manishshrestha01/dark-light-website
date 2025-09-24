@@ -643,7 +643,7 @@ margin-top: 2rem;
 }
 
 .footer__title{
-  font-size: var(--h1-font-size);
+  font-size: var(--h2-font-size);
   font-weight: var(--font-semi-bold);
   margin-bottom: 0.75rem;
 }
