@@ -1,14 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- Home -->
-<url>
-  <loc>https://www.shresthamanish.info.np/</loc>
-  <lastmod>2025-09-15T16:21:59+00:00</lastmod>
-      <priority>1.00</priority>
-</url>
-</urlset>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
+  <!-- Main Domain -->
+  <url>
+    <loc>https://www.shresthamanish.info.np/</loc>
+    <lastmod>2025-09-25</lastmod>
+    <priority>1.00</priority>
+  </url>
+  <url>
+    <loc>https://shresthamanish.info.np/</loc>
+    <lastmod>2025-09-25</lastmod>
+    <priority>0.80</priority>
+  </url>
+
+  <!-- Subdomains -->
+  <url>
+    <loc>https://games.shresthamanish.info.np/</loc>
+    <lastmod>2025-09-25</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://resume.shresthamanish.info.np/</loc>
+    <lastmod>2025-09-25</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://notes.shresthamanish.info.np/</loc>
+    <lastmod>2025-09-25</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://certificates.shresthamanish.info.np/</loc>
+    <lastmod>2025-09-25</lastmod>
+    <priority>0.80</priority>
+  </url>
+
+</urlset>
